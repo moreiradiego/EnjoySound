@@ -1,0 +1,5 @@
+calls
+.venv
+transcript/*
+.idea
+vosk-model-pt
